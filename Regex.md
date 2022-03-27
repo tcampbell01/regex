@@ -158,4 +158,6 @@ This above Regex includes 4 positive look-aheads noted with ?=. The positive loo
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Teresa Campbell is a Full Stack Web Developer and Instructional Designer. Her github page can be found at: https://github.com/tcampbell01 and a portfolio of her work can be found at: https://tcampbell01.github.io/TCampbell-Portfolio/
+
+
